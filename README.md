@@ -5,8 +5,9 @@
 <br>
 <br>
 <div align="center">
-  <img width="400px" src="https://github.com/feliperyo/easy-shopping/blob/master/img/mobile%20e%20tablet.png?raw=true" /> 
+  <img width="350px" src="https://github.com/feliperyo/easy-shopping/blob/master/img/mobile%20e%20tablet.png?raw=true" /> 
 </div>
+
 <div align="center">
-  <img width="700px" src="https://github.com/feliperyo/easy-shopping/blob/master/img/desktop.png?raw=true"/>
+  <img width="600px" src="https://github.com/feliperyo/easy-shopping/blob/master/img/desktop.png?raw=true"/>
 </div>
