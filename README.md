@@ -11,3 +11,9 @@
 <div align="center">
   <img width="600px" src="https://github.com/feliperyo/easy-shopping/blob/master/img/desktop.png?raw=true"/>
 </div>
+
+<br>
+<br>
+<div align="center">
+<a href="https://feliperyo.github.io/easy-shopping/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+</div>
