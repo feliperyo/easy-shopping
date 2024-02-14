@@ -1,5 +1,5 @@
 <h1 align="center">
-  Via Mobile</h1>
+  Via Móvel</h1>
 <br>
 <h3 align="center">Estudo de responsividade utilizando HTML e CSS.</h3>
 <br>
