@@ -114,8 +114,14 @@ button:active {
         margin: 0px;
     }
 
+    img{
+        position: absolute;
+        bottom: 0;
+    }
+
     .img {
-        position: static;
+        position: absolute;
+        bottom: 0;
         max-width: 90%;
         margin: 0 auto;
         display: block;
